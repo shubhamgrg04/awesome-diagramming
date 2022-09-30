@@ -1,17 +1,55 @@
-# awesome-diagramming
-This repository is a curated collection of use-case specific diagramming tools for software engineering teams.
+# Awesome Diagramming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Diagramming tools help engineering teams in better communication. They are especially needed for remote teams. They help in onboarding new engineering folks faster, and give a good reference document for complex system design decisions. But there are so many existing tools with different use cases, that it's hard to find the best tool for job in hand. At the end, we finally end up using general purpose diagramming tools like Miro or Lucidchart for all diagramming requirements. 
+A curated list of awesome diagramming tools available for software engineering teams. Feel free to contribute to this on-going list.
 
-So let's fix on the various kinds of use-cases for a diagramming tools:
 
-- System design diagrams
-- Sequence diagrams (for low level request cycles, especially useful in explaining microservices architecture)
-- Gantt diagrams (for project planning and timeline estimation)
-- Network diagrams
-- 
+### **When diagrams are useful?**  
+Diagrams are faster and compact way for knowledge transfer. It's much easier to convey a system architechture with a diagram compared to writing an essay on it.
 
-Developers are good with code, hence tools which work on "Diagram as code" philosophy are preferred as they are less time consuming and more dynamic. System architectures are in general subject to lot of changes, and in such scenarios, dynamic tools are preferred. Open source is preferred compared to closed source due to portability.
+Diagrams are especially useful in providing high level overview of software design. Following are the most-widely used diagrams by engineering teams:
+- **Sequence diagram** - to visualize interaction between different components in a sequential order 
+- **System architecture diagram** - to visualize system architecture
+- **ER diagram** - to visualize data models
+- **Business process modelling diagram** - to visualize complex business logic
+- **Gantt digram** - used for project planning and timeline estimation  
+
+
+### **Factors to consider before choosing the diagramming tool** 
+- Free / Paid
+- Open source or Closed source
+- Ease of using
+- Visual Appearance - Modern / Outdated
+
+## General Purpose (Flowchart)
+* 
+
+
+## Sequence diagram
+- [Swimlanes](https://swimlanes.io/) (Free, Closed Source, Ease of use - Easy, Visual Appearance - Modern)  
+Examples - [Link]()
+
+## System design diagram
+- [Terrastruct](https://terrastruct.com/) (Paid, Open Source, Ease of use - Easy, Visual Appearance - Modern)  
+Examples - [Link](https://terrastruct.com/examples/1/)
+
+## ER diagram
+- [Terrastruct](https://terrastruct.com/) (Paid, Open Source, Ease of use - Easy, Visual Appearance - Modern)  
+Examples - [Link](https://terrastruct.com/examples/1/)
+
+## Business process modelling diagram
+- [Terrastruct](https://terrastruct.com/) (Paid, Open Source, Ease of use - Easy, Visual Appearance - Modern)  
+Examples - [Link](https://terrastruct.com/examples/1/)
+
+## Gantt Chart
+- [Markwhen](https://markwhen.com/) (Free, Closed Source, Ease of use - Easy, Visual Appearance - Minimalist)  
+Examples - [Link](https://markwhen.com/rob/wedding)
+
+
+
+
+
+LucidScale
+
 
 ## Diagram as code
 
