@@ -4,7 +4,7 @@ A curated list of awesome diagramming tools available for software engineering t
 
 
 ### **When diagrams are useful?**  
-Diagrams are faster and compact way for knowledge transfer. It's much easier to convey a system architechture with a diagram compared to writing an essay on it.
+Diagrams are faster and compact way for knowledge transfer. It's much easier to convey system architechture with a diagram compared to writing an essay on it.
 
 Diagrams are especially useful in providing high level overview of software design. Following are the most-widely used diagrams by engineering teams:
 - **Sequence diagram** - to visualize interaction between different components in a sequential order 
@@ -15,68 +15,64 @@ Diagrams are especially useful in providing high level overview of software desi
 
 
 ### **Factors to consider before choosing the diagramming tool** 
-- Free / Paid
+- Free / Freemium / Paid
 - Open source or Closed source
-- Ease of using
+- Ease of use
+- Diagram as code vs Hand drawn
 - Visual Appearance - Modern / Outdated
+- IDE Integration
 
-## General Purpose (Flowchart)
-* 
+### **General Purpose (flexible for all kinds of diagrams)**
+* [Mermaid](https://mermaid-js.github.io/mermaid/) (Free, Open Source, Diagram as code, Ease of use - Easy, Visual Appearance - Modern).  
+Examples - [Link](https://mermaid-js.github.io/mermaid/#/examples)
 
-
-## Sequence diagram
-- [Swimlanes](https://swimlanes.io/) (Free, Closed Source, Ease of use - Easy, Visual Appearance - Modern)  
+* [Excalidraw](https://excalidraw.com/) (Freemium, Open Source, Hand drawn, Ease of use - Easy, Visual Appearance - Hand-drawn).  
 Examples - [Link]()
 
-## System design diagram
+* [PlantUML](https://plantuml.com/) (Free, Open Source, Diagram as code, Ease of use - Intermediete, Visual Appearance - Outdated)  
+Examples - [Link](https://plantuml.com/), [Link](https://real-world-plantuml.com/) 
+
+* [Draw.io](http://draw.io/) (Free, Closed Source, Hand drawn, Ease of use - Moderate, Visual Appearance - Modern).  
+Examples - [Link](https://www.diagrams.net/example-diagrams)
+
+* [Diagram.codes](https://playground.diagram.codes/) (Freemium, Closed Source, Diagram as code, Ease of use - Easy, Visual Appearance - Outdated).  
+Examples - [Link](https://playground.diagram.codes/)
+
+* [Lucidchart](https://www.lucidchart.com/) (Paid, Closed Source, Hand drawn, Ease of use - Easy, Visual Appearance - Modern).  
+Examples - [Link](https://www.lucidchart.com/pages/tour)
+
+* [Blockdiag](http://blockdiag.com/) (Free, Open Source, Diagram as code, Ease of use - Easy, Visual Appearance - Outdated).  
+Exampes - [Link](http://blockdiag.com/en/blockdiag/examples.html)
+
+
+### **Sequence diagram**
+- [Swimlanes](https://swimlanes.io/) (Free, Closed Source, Ease of use - Easy, Visual Appearance - Modern)  
+Examples - [Link](https://diagrams.mingrammer.com/docs/getting-started/examples)
+
+### **System design diagram**
+- [Diagrams](https://diagrams.mingrammer.com/) (Free, Open Source, Ease of use - Easy, Visual Appearance - Modern). 
+Examples - [Link]
+
 - [Terrastruct](https://terrastruct.com/) (Paid, Open Source, Ease of use - Easy, Visual Appearance - Modern)  
 Examples - [Link](https://terrastruct.com/examples/1/)
 
-## ER diagram
+- [Lucidscale](https://lucidscale.com/) (Paid, Closed Source, Ease of use - Intermediete, Visual Appearance - Modern).  
+Examples - [Link](https://lucidscale.com/tutorial)
+
+### **ER diagram**
 - [Terrastruct](https://terrastruct.com/) (Paid, Open Source, Ease of use - Easy, Visual Appearance - Modern)  
 Examples - [Link](https://terrastruct.com/examples/1/)
 
-## Business process modelling diagram
+### **Business process modelling diagram**
 - [Terrastruct](https://terrastruct.com/) (Paid, Open Source, Ease of use - Easy, Visual Appearance - Modern)  
 Examples - [Link](https://terrastruct.com/examples/1/)
 
-## Gantt Chart
+### **Gantt Chart**
 - [Markwhen](https://markwhen.com/) (Free, Closed Source, Ease of use - Easy, Visual Appearance - Minimalist)  
 Examples - [Link](https://markwhen.com/rob/wedding)
 
 
-
-
-
-LucidScale
-
-
-## Diagram as code
-
-## General Purpose
-- https://diagrams.mingrammer.com/
-- https://d2-lang.com/
-- https://www.graphviz.org/
-- https://mermaid-js.github.io/
-- https://playground.diagram.codes/
-- https://plantuml.com/
-- https://excalidraw.com/ (Hand drawn look)
-- http://blockdiag.com/
-
-### Sequence Diagrams
-- https://swimlanes.io/
-
-### Gantt Chart
-- https://markwhen.com/
-
-### Venn Diagrams / Geometric Diagrams
-- https://penrose.cs.cmu.edu/
-
-### Network Diagrams
-- http://go.drawthe.net/
-
-
-## Other good curated collections of diagramming tools:
+### **Other good curated collections of diagramming tools**
 - https://github.com/sw-yx/spark-joy/blob/master/README.md#diagramming
 - https://xosh.org/text-to-diagram/
 
