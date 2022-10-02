@@ -10,7 +10,6 @@ Diagrams are especially useful in providing high level overview of software desi
 - **Sequence diagram** - to visualize interaction between different components in a sequential order 
 - **System architecture diagram** - to visualize system architecture
 - **ER diagram** - to visualize data models
-- **Business process modelling diagram** - to visualize complex business logic
 - **Gantt digram** - used for project planning and timeline estimation  
 
 
@@ -19,10 +18,12 @@ Diagrams are especially useful in providing high level overview of software desi
 - Open source or Closed source
 - Ease of use
 - Diagram as code vs Hand drawn
-- Visual Appearance - Modern / Outdated
-- IDE Integration
+- Visual Appearance - Modern / Minimalistic / Outdated / Hand-drawn
 
 ### **General Purpose (flexible for all kinds of diagrams)**
+* [Kroki](https://kroki.io/) (Free, Open Source, Diagram as code, Ease of use - Easy, Visual Appearance - Flexible).  
+Examples - [Link](https://kroki.io/examples.html)
+
 * [Mermaid](https://mermaid-js.github.io/mermaid/) (Free, Open Source, Diagram as code, Ease of use - Easy, Visual Appearance - Modern).  
 Examples - [Link](https://mermaid-js.github.io/mermaid/#/examples)
 
@@ -35,6 +36,9 @@ Examples - [Link](https://plantuml.com/), [Link](https://real-world-plantuml.com
 * [Draw.io](http://draw.io/) (Free, Closed Source, Hand drawn, Ease of use - Moderate, Visual Appearance - Modern).  
 Examples - [Link](https://www.diagrams.net/example-diagrams)
 
+* [Nomnoml](https://www.nomnoml.com/) (Free, Open Source, Diagram as code. Ease of use - Easy, Visual Apperance - Minimalistic).  
+Examples - [Link](https://www.nomnoml.com/)
+
 * [Diagram.codes](https://playground.diagram.codes/) (Freemium, Closed Source, Diagram as code, Ease of use - Easy, Visual Appearance - Outdated).  
 Examples - [Link](https://playground.diagram.codes/)
 
@@ -44,28 +48,35 @@ Examples - [Link](https://www.lucidchart.com/pages/tour)
 * [Blockdiag](http://blockdiag.com/) (Free, Open Source, Diagram as code, Ease of use - Easy, Visual Appearance - Outdated).  
 Exampes - [Link](http://blockdiag.com/en/blockdiag/examples.html)
 
+Others - [Miro](https://miro.com/), [Gliffy](https://www.gliffy.com/), [Inkscape](https://inkscape.org/), [Plectica](https://www.plectica.com/), [Whimsical](https://whimsical.com/), [ZenUML](https://zenuml.com/), [Gleek](https://www.gleek.io/), [Structurizr](https://structurizr.com/dsl)
+
 
 ### **Sequence diagram**
 - [Swimlanes](https://swimlanes.io/) (Free, Closed Source, Ease of use - Easy, Visual Appearance - Modern)  
 Examples - [Link](https://diagrams.mingrammer.com/docs/getting-started/examples)
 
+Others - [Websequencediagrams](https://www.websequencediagrams.com/), [Sequencediagram.org](https://sequencediagram.org/)
 ### **System design diagram**
-- [Diagrams](https://diagrams.mingrammer.com/) (Free, Open Source, Ease of use - Easy, Visual Appearance - Modern). 
-Examples - [Link]
+> Essential readings
+[C4 Model](https://c4model.com/), [5 types of acrchitecture diagrams](https://www.readysetcloud.io/blog/allen.helton/the-5-types-of-architecture-diagrams/)
+- [Diagrams](https://diagrams.mingrammer.com/) (Free, Open Source, Ease of use - Easy, Visual Appearance - Modern).  
+Examples - [Link](https://diagrams.mingrammer.com/docs/getting-started/examples)
 
 - [Terrastruct](https://terrastruct.com/) (Paid, Open Source, Ease of use - Easy, Visual Appearance - Modern)  
 Examples - [Link](https://terrastruct.com/examples/1/)
+
+- [Icepanel](https://icepanel.io/) (Paid, Closed Source, Hand drawn, Ease of use - Easy, Visual Appearance - Modern)
 
 - [Lucidscale](https://lucidscale.com/) (Paid, Closed Source, Ease of use - Intermediete, Visual Appearance - Modern).  
 Examples - [Link](https://lucidscale.com/tutorial)
 
-### **ER diagram**
-- [Terrastruct](https://terrastruct.com/) (Paid, Open Source, Ease of use - Easy, Visual Appearance - Modern)  
-Examples - [Link](https://terrastruct.com/examples/1/)
+Others - [Ilograph](https://www.ilograph.com/), [Omnigraffle](https://sequencediagram.org/), [Cloudcraft](https://www.cloudcraft.co/), [CloudSkew](https://www.cloudskew.com/)
 
-### **Business process modelling diagram**
-- [Terrastruct](https://terrastruct.com/) (Paid, Open Source, Ease of use - Easy, Visual Appearance - Modern)  
-Examples - [Link](https://terrastruct.com/examples/1/)
+### **ER diagram**
+- [DbDiagram](https://dbdiagram.io) (Freemium, Closed Source, Ease of use - Easy, Visual Appearance - Modern)  
+Examples - [Link](https://hackernoon.com/dbdiagram-io-a-database-diagram-designer-built-for-developers-and-analysts-975f310d4f13)
+
+- [QuickDBD](https://app.quickdatabasediagrams.com/) (Free, Closed Source, Ease of use - Easy, Visual Appearance - Modern)
 
 ### **Gantt Chart**
 - [Markwhen](https://markwhen.com/) (Free, Closed Source, Ease of use - Easy, Visual Appearance - Minimalist)  
