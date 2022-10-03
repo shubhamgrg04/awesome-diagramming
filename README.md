@@ -57,7 +57,7 @@ Examples - [Link](https://diagrams.mingrammer.com/docs/getting-started/examples)
 
 Others - [Websequencediagrams](https://www.websequencediagrams.com/), [Sequencediagram.org](https://sequencediagram.org/)
 ### **System design diagram**
-> Essential readings
+> **Essential readings**  
 [C4 Model](https://c4model.com/), [5 types of acrchitecture diagrams](https://www.readysetcloud.io/blog/allen.helton/the-5-types-of-architecture-diagrams/)
 - [Diagrams](https://diagrams.mingrammer.com/) (Free, Open Source, Ease of use - Easy, Visual Appearance - Modern).  
 Examples - [Link](https://diagrams.mingrammer.com/docs/getting-started/examples)
@@ -74,6 +74,9 @@ Others - [Ilograph](https://www.ilograph.com/), [Omnigraffle](https://sequencedi
 
 ### **ER diagram**
 
+> **Essential Readings**  
+[How to choose your ERD?](https://azimutt.app/blog/how-to-choose-your-entity-relationship-diagram)
+
 - [DbDiagram](https://dbdiagram.io) (Freemium, Closed Source, Ease of use - Easy, Visual Appearance - Modern)  
 Examples - [Link](https://hackernoon.com/dbdiagram-io-a-database-diagram-designer-built-for-developers-and-analysts-975f310d4f13)
 
@@ -83,6 +86,8 @@ Examples - [Link](https://azimutt.app/blog/how-to-explore-your-database-schema-w
 
 - [QuickDBD](https://app.quickdatabasediagrams.com/) (Free, Closed Source, Ease of use - Easy, Visual Appearance - Modern).  
 Examples - [Link](https://www.quickdatabasediagrams.com/quickdbd-as-mysql-design-tool/)
+
+Others - [DrawSql](https://drawsql.app/), [ERD Plus](https://erdplus.com/), [Creately](https://creately.com/lp/er-diagram-tool-online/), [SqlDBM](https://sqldbm.com/Home/)
 
 ### **Gantt Chart**
 - [Markwhen](https://markwhen.com/) (Free, Closed Source, Ease of use - Easy, Visual Appearance - Minimalist)  
