@@ -73,10 +73,16 @@ Examples - [Link](https://lucidscale.com/tutorial)
 Others - [Ilograph](https://www.ilograph.com/), [Omnigraffle](https://sequencediagram.org/), [Cloudcraft](https://www.cloudcraft.co/), [CloudSkew](https://www.cloudskew.com/)
 
 ### **ER diagram**
+
 - [DbDiagram](https://dbdiagram.io) (Freemium, Closed Source, Ease of use - Easy, Visual Appearance - Modern)  
 Examples - [Link](https://hackernoon.com/dbdiagram-io-a-database-diagram-designer-built-for-developers-and-analysts-975f310d4f13)
 
-- [QuickDBD](https://app.quickdatabasediagrams.com/) (Free, Closed Source, Ease of use - Easy, Visual Appearance - Modern)
+- [Azimutt](https://azimutt.app/) (Free, Open Source, Ease of use - Easy, Visual Appearance - Modern).  
+Examples - [Link](https://azimutt.app/blog/how-to-explore-your-database-schema-with-azimutt)
+    > `Azimutt` is useful when you want to visualize existing database
+
+- [QuickDBD](https://app.quickdatabasediagrams.com/) (Free, Closed Source, Ease of use - Easy, Visual Appearance - Modern).  
+Examples - [Link](https://www.quickdatabasediagrams.com/quickdbd-as-mysql-design-tool/)
 
 ### **Gantt Chart**
 - [Markwhen](https://markwhen.com/) (Free, Closed Source, Ease of use - Easy, Visual Appearance - Minimalist)  
