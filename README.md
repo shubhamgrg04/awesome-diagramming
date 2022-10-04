@@ -33,7 +33,7 @@ Examples - [Link]()
 * [PlantUML](https://plantuml.com/) (Free, Open Source, Diagram as code, Ease of use - Intermediete, Visual Appearance - Outdated)  
 Examples - [Link](https://plantuml.com/), [Link](https://real-world-plantuml.com/) 
 
-* [Draw.io](http://draw.io/) (Free, Closed Source, Hand drawn, Ease of use - Moderate, Visual Appearance - Modern).  
+* [Draw.io](http://draw.io/) (Free, Open Source (But Closed To Contribution), Hand drawn, Ease of use - Moderate, Visual Appearance - Modern).  
 Examples - [Link](https://www.diagrams.net/example-diagrams)
 
 * [Nomnoml](https://www.nomnoml.com/) (Free, Open Source, Diagram as code. Ease of use - Easy, Visual Apperance - Minimalistic).  
