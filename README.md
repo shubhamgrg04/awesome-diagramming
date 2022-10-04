@@ -10,7 +10,7 @@ Diagrams are especially useful in providing high level overview of software desi
 - **Sequence diagram** - to visualize interaction between different components in a sequential order 
 - **System architecture diagram** - to visualize system architecture
 - **ER diagram** - to visualize data models
-- **Gantt digram** - used for project planning and timeline estimation  
+- **Gantt diagram** - used for project planning and timeline estimation  
 
 
 ### **Factors to consider before choosing the diagramming tool** 
