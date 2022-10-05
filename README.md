@@ -58,7 +58,7 @@ Examples - [Link](https://diagrams.mingrammer.com/docs/getting-started/examples)
 Others - [Websequencediagrams](https://www.websequencediagrams.com/), [Sequencediagram.org](https://sequencediagram.org/)
 ### **System design diagram**
 > **Essential readings**  
-[C4 Model](https://c4model.com/), [5 types of acrchitecture diagrams](https://www.readysetcloud.io/blog/allen.helton/the-5-types-of-architecture-diagrams/)
+[C4 Model](https://c4model.com/), [5 types of architecture diagrams](https://www.readysetcloud.io/blog/allen.helton/the-5-types-of-architecture-diagrams/)
 - [Diagrams](https://diagrams.mingrammer.com/) (Free, Open Source, Ease of use - Easy, Visual Appearance - Modern).  
 Examples - [Link](https://diagrams.mingrammer.com/docs/getting-started/examples)
 
