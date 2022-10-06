@@ -56,6 +56,7 @@ Others - [Miro](https://miro.com/), [Gliffy](https://www.gliffy.com/), [Inkscape
 Examples - [Link](https://diagrams.mingrammer.com/docs/getting-started/examples)
 
 Others - [Websequencediagrams](https://www.websequencediagrams.com/), [Sequencediagram.org](https://sequencediagram.org/)
+
 ### **System design diagram**
 > **Essential readings**  
 [C4 Model](https://c4model.com/), [5 types of acrchitecture diagrams](https://www.readysetcloud.io/blog/allen.helton/the-5-types-of-architecture-diagrams/)
@@ -90,7 +91,7 @@ Examples - [Link](https://www.quickdatabasediagrams.com/quickdbd-as-mysql-design
 Others - [DrawSql](https://drawsql.app/), [ERD Plus](https://erdplus.com/), [Creately](https://creately.com/lp/er-diagram-tool-online/), [SqlDBM](https://sqldbm.com/Home/)
 
 ### **Gantt Chart**
-- [Markwhen](https://markwhen.com/) (Free, Closed Source, Ease of use - Easy, Visual Appearance - Minimalist)  
+- [Markwhen](https://markwhen.com/) (Free, [Open Source](https://github.com/kochrt/markwhen), Ease of use - Easy, Visual Appearance - Minimalist)  
 Examples - [Link](https://markwhen.com/rob/wedding)
 
 
