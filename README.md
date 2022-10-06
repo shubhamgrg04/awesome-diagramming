@@ -59,14 +59,15 @@ Others - [Websequencediagrams](https://www.websequencediagrams.com/), [Sequenced
 
 ### **System design diagram**
 > **Essential readings**  
-[C4 Model](https://c4model.com/), [5 types of acrchitecture diagrams](https://www.readysetcloud.io/blog/allen.helton/the-5-types-of-architecture-diagrams/)
+[C4 Model](https://c4model.com/), [5 types of architecture diagrams](https://www.readysetcloud.io/blog/allen.helton/the-5-types-of-architecture-diagrams/)
 - [Diagrams](https://diagrams.mingrammer.com/) (Free, Open Source, Ease of use - Easy, Visual Appearance - Modern).  
 Examples - [Link](https://diagrams.mingrammer.com/docs/getting-started/examples)
 
 - [Terrastruct](https://terrastruct.com/) (Paid, Open Source, Ease of use - Easy, Visual Appearance - Modern)  
 Examples - [Link](https://terrastruct.com/examples/1/)
 
-- [Icepanel](https://icepanel.io/) (Paid, Closed Source, Hand drawn, Ease of use - Easy, Visual Appearance - Modern)
+- [IcePanel](https://icepanel.io/) (Paid, Closed Source, Hand drawn, Ease of use - Easy, Visual Appearance - Modern)
+Examples - [Link](https://s.icepanel.io/vmHvBHr4BeMEOa/iyAG)
 
 - [Lucidscale](https://lucidscale.com/) (Paid, Closed Source, Ease of use - Intermediete, Visual Appearance - Modern).  
 Examples - [Link](https://lucidscale.com/tutorial)
