@@ -63,7 +63,7 @@ Others - [Websequencediagrams](https://www.websequencediagrams.com/), [Sequenced
 - [Diagrams](https://diagrams.mingrammer.com/) (Free, Open Source, Ease of use - Easy, Visual Appearance - Modern).  
 Examples - [Link](https://diagrams.mingrammer.com/docs/getting-started/examples)
 
-- [Terrastruct](https://terrastruct.com/) (Paid, Open Source, Ease of use - Easy, Visual Appearance - Modern)  
+- [Terrastruct](https://terrastruct.com/) (Paid, Closed Source, Ease of use - Easy, Visual Appearance - Modern)  
 Examples - [Link](https://terrastruct.com/examples/1/)
 
 - [IcePanel](https://icepanel.io/) (Paid, Closed Source, Hand drawn, Ease of use - Easy, Visual Appearance - Modern)
