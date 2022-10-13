@@ -4,7 +4,7 @@ A curated list of awesome diagramming tools available for software engineering t
 
 
 ### **When diagrams are useful?**  
-Diagrams are faster and compact way for knowledge transfer. It's much easier to convey system architechture with a diagram compared to writing an essay on it.
+Diagrams are faster and compact way for knowledge transfer. It's much easier to convey system architecture with a diagram compared to writing an essay on it.
 
 Diagrams are especially useful in providing high level overview of software design. Following are the most-widely used diagrams by engineering teams:
 - **Sequence diagram** - to visualize interaction between different components in a sequential order 
