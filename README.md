@@ -72,7 +72,7 @@ Examples - [Link](https://s.icepanel.io/vmHvBHr4BeMEOa/iyAG)
 - [Lucidscale](https://lucidscale.com/) (Paid, Closed Source, Ease of use - Intermediete, Visual Appearance - Modern).  
 Examples - [Link](https://lucidscale.com/tutorial)
 
-Others - [Ilograph](https://www.ilograph.com/), [Omnigraffle](https://sequencediagram.org/), [Cloudcraft](https://www.cloudcraft.co/), [CloudSkew](https://www.cloudskew.com/)
+Others - [Ilograph](https://www.ilograph.com/), [Omnigraffle](https://www.omnigroup.com/omnigraffle/), [Cloudcraft](https://www.cloudcraft.co/), [CloudSkew](https://www.cloudskew.com/)
 
 ### **ER diagram**
 
