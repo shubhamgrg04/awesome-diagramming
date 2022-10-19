@@ -48,6 +48,9 @@ Examples - [Link](https://www.lucidchart.com/pages/tour)
 * [Blockdiag](http://blockdiag.com/) (Free, Open Source, Diagram as code, Ease of use - Easy, Visual Appearance - Outdated).  
 Exampes - [Link](http://blockdiag.com/en/blockdiag/examples.html)
 
+* [Stately Studio](https://stately.ai/) (Freemium, Partly Open Source, Diagram as code).  
+Exampes - [Link](https://stately.ai/blog/introducing-stately-studio-10)
+
 Others - [Miro](https://miro.com/), [Gliffy](https://www.gliffy.com/), [Inkscape](https://inkscape.org/), [Plectica](https://www.plectica.com/), [Whimsical](https://whimsical.com/), [ZenUML](https://zenuml.com/), [Gleek](https://www.gleek.io/), [Structurizr](https://structurizr.com/dsl), [StarUML](https://staruml.io/)
 
 
