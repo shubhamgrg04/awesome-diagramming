@@ -4,13 +4,14 @@ A curated list of awesome diagramming tools available for software engineering t
 
 
 ### **When diagrams are useful?**  
-Diagrams are faster and compact way for knowledge transfer. It's much easier to convey system architechture with a diagram compared to writing an essay on it.
 
-Diagrams are especially useful in providing high level overview of software design. Following are the most-widely used diagrams by engineering teams:
-- **Sequence diagram** - to visualize interaction between different components in a sequential order 
-- **System architecture diagram** - to visualize system architecture
-- **ER diagram** - to visualize data models
-- **Gantt diagram** - used for project planning and timeline estimation  
+Diagrams are faster and compact way for knowledge transfer. It's much easier to communicate a system architecture with a diagram compared to writing an essay on it.
+
+Following are the major categories diagrams used by most efficient software engineering teams (based on more than 30 interviews with engineers working in startups and big tech):
+- **System Architecture Diagram** - to visualize high-level structure of a software system and interactions between difference components
+- **Sequence Diagram** - to visualize data flow between different components in a sequential order 
+- **Database Schema Diagram** - to visualize data models and relations between entities (ER Diagrams)
+- **Gantt Chart** - used for project planning and timeline estimation  
 
 
 ### **Factors to consider before choosing the diagramming tool** 
@@ -27,16 +28,19 @@ Examples - [Link](https://kroki.io/examples.html)
 * [Mermaid](https://mermaid-js.github.io/mermaid/) (Free, Open Source, Diagram as code, Ease of use - Easy, Visual Appearance - Modern).  
 Examples - [Link](https://mermaid-js.github.io/mermaid/#/examples)
 
+* [Eraser.io](https://www.eraser.io/) (Freemium, Closed Source, Hand drawn, Ease of use - Easy, Visual Appearance - Modern).  
+Examples - [Link](https://www.eraser.io/examples)
+
 * [Excalidraw](https://excalidraw.com/) (Freemium, Open Source, Hand drawn, Ease of use - Easy, Visual Appearance - Hand-drawn).  
 Examples - [Link]()
 
-* [PlantUML](https://plantuml.com/) (Free, Open Source, Diagram as code, Ease of use - Intermediete, Visual Appearance - Outdated)  
+* [PlantUML](https://plantuml.com/) (Free, Open Source, Diagram as code, Ease of use - Intermediate, Visual Appearance - Outdated)  
 Examples - [Link](https://plantuml.com/), [Link](https://real-world-plantuml.com/) 
 
 * [Draw.io](http://draw.io/) (Free, Open Source (But Closed To Contribution), Hand drawn, Ease of use - Moderate, Visual Appearance - Modern).  
 Examples - [Link](https://www.diagrams.net/example-diagrams)
 
-* [Nomnoml](https://www.nomnoml.com/) (Free, Open Source, Diagram as code. Ease of use - Easy, Visual Apperance - Minimalistic).  
+* [Nomnoml](https://www.nomnoml.com/) (Free, Open Source, Diagram as code. Ease of use - Easy, Visual Appearance - Minimalistic).  
 Examples - [Link](https://www.nomnoml.com/)
 
 * [Diagram.codes](https://playground.diagram.codes/) (Freemium, Closed Source, Diagram as code, Ease of use - Easy, Visual Appearance - Outdated).  
@@ -46,18 +50,12 @@ Examples - [Link](https://playground.diagram.codes/)
 Examples - [Link](https://www.lucidchart.com/pages/tour)
 
 * [Blockdiag](http://blockdiag.com/) (Free, Open Source, Diagram as code, Ease of use - Easy, Visual Appearance - Outdated).  
-Exampes - [Link](http://blockdiag.com/en/blockdiag/examples.html)
+Examples - [Link](http://blockdiag.com/en/blockdiag/examples.html)
 
 Others - [Miro](https://miro.com/), [Gliffy](https://www.gliffy.com/), [Inkscape](https://inkscape.org/), [Plectica](https://www.plectica.com/), [Whimsical](https://whimsical.com/), [ZenUML](https://zenuml.com/), [Gleek](https://www.gleek.io/), [Structurizr](https://structurizr.com/dsl), [StarUML](https://staruml.io/)
 
 
-### **Sequence diagram**
-- [Swimlanes](https://swimlanes.io/) (Free, Closed Source, Ease of use - Easy, Visual Appearance - Modern)  
-Examples - [Link](https://diagrams.mingrammer.com/docs/getting-started/examples)
-
-Others - [Websequencediagrams](https://www.websequencediagrams.com/), [Sequencediagram.org](https://sequencediagram.org/)
-
-### **System design diagram**
+### **System Architecture Diagram**
 > **Essential readings**  
 [C4 Model](https://c4model.com/), [5 types of architecture diagrams](https://www.readysetcloud.io/blog/allen.helton/the-5-types-of-architecture-diagrams/)
 - [Diagrams](https://diagrams.mingrammer.com/) (Free, Open Source, Ease of use - Easy, Visual Appearance - Modern).  
@@ -69,12 +67,20 @@ Examples - [Link](https://terrastruct.com/examples/1/)
 - [IcePanel](https://icepanel.io/) (Paid, Closed Source, Hand drawn, Ease of use - Easy, Visual Appearance - Modern)
 Examples - [Link](https://s.icepanel.io/vmHvBHr4BeMEOa/iyAG)
 
-- [Lucidscale](https://lucidscale.com/) (Paid, Closed Source, Ease of use - Intermediete, Visual Appearance - Modern).  
+- [Lucidscale](https://lucidscale.com/) (Paid, Closed Source, Ease of use - Intermediate, Visual Appearance - Modern).  
 Examples - [Link](https://lucidscale.com/tutorial)
 
 Others - [Ilograph](https://www.ilograph.com/), [Omnigraffle](https://sequencediagram.org/), [Cloudcraft](https://www.cloudcraft.co/), [CloudSkew](https://www.cloudskew.com/)
 
-### **ER diagram**
+
+### **Sequence Diagram**
+- [Swimlanes](https://swimlanes.io/) (Free, Closed Source, Ease of use - Easy, Visual Appearance - Modern)  
+Examples - [Link](https://diagrams.mingrammer.com/docs/getting-started/examples)
+
+Others - [Websequencediagrams](https://www.websequencediagrams.com/), [Sequencediagram.org](https://sequencediagram.org/)
+
+
+### **Database Schema Diagram**
 
 > **Essential Readings**  
 [How to choose your ERD?](https://azimutt.app/blog/how-to-choose-your-entity-relationship-diagram)
