@@ -70,6 +70,9 @@ Examples - [Link](https://s.icepanel.io/vmHvBHr4BeMEOa/iyAG)
 - [Lucidscale](https://lucidscale.com/) (Paid, Closed Source, Ease of use - Intermediate, Visual Appearance - Modern).  
 Examples - [Link](https://lucidscale.com/tutorial)
 
+- [Keadex Mina](https://keadex.dev/en/projects/keadex-mina) (Free, Open Source, Diagram as code, Ease of use - Easy, Visual Appearance - Flexible).  
+Examples - [Link](https://keadex.dev/en/docs/mina/architecture/rendering-system#dynamic-diagram)
+
 Others - [Ilograph](https://www.ilograph.com/), [Omnigraffle](https://sequencediagram.org/), [Cloudcraft](https://www.cloudcraft.co/), [CloudSkew](https://www.cloudskew.com/)
 
 
