@@ -95,6 +95,9 @@ Examples - [Link](https://azimutt.app/blog/how-to-explore-your-database-schema-w
 - [QuickDBD](https://app.quickdatabasediagrams.com/) (Free, Closed Source, Ease of use - Easy, Visual Appearance - Modern).  
 Examples - [Link](https://www.quickdatabasediagrams.com/quickdbd-as-mysql-design-tool/)
 
+- [Liam ERD](https://liambx.com/) (Free, Open Source, Ease of use - Easy, Visual Appearance - Modern).  
+Examples - [Link](https://liambx.com/blog/liam-erd-introduction)
+
 Others - [DrawSql](https://drawsql.app/), [ERD Plus](https://erdplus.com/), [Creately](https://creately.com/lp/er-diagram-tool-online/), [SqlDBM](https://sqldbm.com/Home/)
 
 ### **Gantt Chart**
