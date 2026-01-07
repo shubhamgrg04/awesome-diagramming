@@ -31,6 +31,9 @@ Examples - [Link](https://mermaid-js.github.io/mermaid/#/examples)
 * [Eraser.io](https://www.eraser.io/) (Freemium, Closed Source, Hand drawn, Ease of use - Easy, Visual Appearance - Modern).  
 Examples - [Link](https://www.eraser.io/examples)
 
+* [Romans Cool Diagram Software](https://romans-cool-diagram-software.vercel.app/) (Free, Open-Source, Local Saving, AI-Editable, Fast, Flexible, Visual Appearance - Modern).  
+Examples - [Link](https://romans-cool-diagram-software.vercel.app/)
+
 * [Excalidraw](https://excalidraw.com/) (Freemium, Open Source, Hand drawn, Ease of use - Easy, Visual Appearance - Hand-drawn).  
 Examples - [Link]()
 
