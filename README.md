@@ -52,6 +52,10 @@ Examples - [Link](https://www.lucidchart.com/pages/tour)
 * [Blockdiag](http://blockdiag.com/) (Free, Open Source, Diagram as code, Ease of use - Easy, Visual Appearance - Outdated).  
 Examples - [Link](http://blockdiag.com/en/blockdiag/examples.html)
 
+
+* [Taskade](https://www.taskade.com/) (Freemium, Closed Source, Hand drawn, Ease of use - Easy, Visual Appearance - Modern).  
+Examples - [Link](https://www.taskade.com/templates/mindmap)
+
 Others - [Miro](https://miro.com/), [Gliffy](https://www.gliffy.com/), [Inkscape](https://inkscape.org/), [Plectica](https://www.plectica.com/), [Whimsical](https://whimsical.com/), [ZenUML](https://zenuml.com/), [Gleek](https://www.gleek.io/), [Structurizr](https://structurizr.com/dsl), [StarUML](https://staruml.io/), [Gaphor](https://gaphor.org)
 
 
