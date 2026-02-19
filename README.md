@@ -102,6 +102,10 @@ Others - [DrawSql](https://drawsql.app/), [ERD Plus](https://erdplus.com/), [Cre
 Examples - [Link](https://markwhen.com/rob/wedding)
 
 
+### **BPMN / Process Diagrams**
+- [bpmn-to-visio](https://github.com/Mgabr90/bpmn-to-visio) (Free, Open Source, Ease of use - Easy, Visual Appearance - Professional). Convert BPMN 2.0 diagrams to Microsoft Visio (.vsdx) — zero dependencies, pure Python.
+Examples - [Link](https://pypi.org/project/bpmn-to-visio/)
+
 ### **Other good curated collections of diagramming tools**
 - https://github.com/sw-yx/spark-joy/blob/master/README.md#diagramming
 - https://xosh.org/text-to-diagram/
