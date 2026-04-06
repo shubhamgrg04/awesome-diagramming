@@ -56,6 +56,7 @@ Others - [Miro](https://miro.com/), [Gliffy](https://www.gliffy.com/), [Inkscape
 
 
 ### **System Architecture Diagram**
+- [GenAI DrawIO Creator](https://github.com/tuoxie2046/GenAI-DrawIO-Creator) - Open-source tool that generates draw.io diagrams from natural language using AI. Supports AWS, GCP, Azure, Kubernetes, and more.
 > **Essential readings**  
 [C4 Model](https://c4model.com/), [5 types of architecture diagrams](https://www.readysetcloud.io/blog/allen.helton/the-5-types-of-architecture-diagrams/)
 - [Diagrams](https://diagrams.mingrammer.com/) (Free, Open Source, Ease of use - Easy, Visual Appearance - Modern).  
