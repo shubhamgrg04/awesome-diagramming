@@ -102,6 +102,13 @@ Others - [DrawSql](https://drawsql.app/), [ERD Plus](https://erdplus.com/), [Cre
 Examples - [Link](https://markwhen.com/rob/wedding)
 
 
+### **Circuit / Electrical Diagram**
+- [Circuit Diagram Maker](https://circuitdiagrammaker.app) (Free + Paid Pro, Closed Source, Ease of use - Easy, Visual Appearance - Modern)  
+Browser-based editor for electrical and electronic circuit and wiring diagrams. Drag symbols (resistors, ICs, switches, motors, relays) onto a canvas, wires auto-route, export PDF/SVG/PNG.
+
+Others - [EasyEDA](https://easyeda.com/), [KiCad](https://kicad.org/), [CircuitLab](https://www.circuitlab.com/)
+
+
 ### **Other good curated collections of diagramming tools**
 - https://github.com/sw-yx/spark-joy/blob/master/README.md#diagramming
 - https://xosh.org/text-to-diagram/
