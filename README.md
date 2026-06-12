@@ -28,6 +28,9 @@ Examples - [Link](https://kroki.io/examples.html)
 * [Mermaid](https://mermaid-js.github.io/mermaid/) (Free, Open Source, Diagram as code, Ease of use - Easy, Visual Appearance - Modern).  
 Examples - [Link](https://mermaid-js.github.io/mermaid/#/examples)
 
+* [Mermaid Online](https://mermaidonline.org/?utm_source=awesome-diagramming&utm_medium=github_awesome_list&utm_campaign=mo_backlink) (Free, Browser-based, Diagram as code, Ease of use - Easy, Export - PNG/SVG/JPG/WebP/PDF).
+Examples - [Link](https://mermaidonline.org/)
+
 * [Eraser.io](https://www.eraser.io/) (Freemium, Closed Source, Hand drawn, Ease of use - Easy, Visual Appearance - Modern).  
 Examples - [Link](https://www.eraser.io/examples)
 
