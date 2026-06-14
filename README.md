@@ -61,6 +61,9 @@ Others - [Miro](https://miro.com/), [Gliffy](https://www.gliffy.com/), [Inkscape
 - [Diagrams](https://diagrams.mingrammer.com/) (Free, Open Source, Ease of use - Easy, Visual Appearance - Modern).  
 Examples - [Link](https://diagrams.mingrammer.com/docs/getting-started/examples)
 
+- [TopoAI](https://www.topoai.cc/) (Freemium, Closed Source, AI-assisted system and network topology first drafts, Ease of use - Easy, Visual Appearance - Modern).  
+Examples - [Link](https://www.topoai.cc/topology/create)
+
 - [Terrastruct](https://terrastruct.com/) (Paid, Closed Source, Ease of use - Easy, Visual Appearance - Modern)  
 Examples - [Link](https://terrastruct.com/examples/1/)
 
