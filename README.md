@@ -52,6 +52,8 @@ Examples - [Link](https://www.lucidchart.com/pages/tour)
 * [Blockdiag](http://blockdiag.com/) (Free, Open Source, Diagram as code, Ease of use - Easy, Visual Appearance - Outdated).  
 Examples - [Link](http://blockdiag.com/en/blockdiag/examples.html)
 
+* [Diagrammo](https://diagrammo.app) (Free applications, Open Source libraries, rich ecosystem for Obsidian, Astro, many chart types)
+
 Others - [Miro](https://miro.com/), [Gliffy](https://www.gliffy.com/), [Inkscape](https://inkscape.org/), [Plectica](https://www.plectica.com/), [Whimsical](https://whimsical.com/), [ZenUML](https://zenuml.com/), [Gleek](https://www.gleek.io/), [Structurizr](https://structurizr.com/dsl), [StarUML](https://staruml.io/), [Gaphor](https://gaphor.org)
 
 
