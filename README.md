@@ -61,6 +61,9 @@ Others - [Miro](https://miro.com/), [Gliffy](https://www.gliffy.com/), [Inkscape
 - [Diagrams](https://diagrams.mingrammer.com/) (Free, Open Source, Ease of use - Easy, Visual Appearance - Modern).  
 Examples - [Link](https://diagrams.mingrammer.com/docs/getting-started/examples)
 
+- [iso-topology](https://github.com/MarkovWangRR/iso-topology) (Free, Open Source, Ease of use - Easy, Visual Appearance - Modern).  
+Diagram-as-code that renders design-grade 2.5D isometric SVG; your AI agent generates and validates the text DSL. Examples - [Gallery](https://github.com/MarkovWangRR/iso-topology#gallery)
+
 - [Terrastruct](https://terrastruct.com/) (Paid, Closed Source, Ease of use - Easy, Visual Appearance - Modern)  
 Examples - [Link](https://terrastruct.com/examples/1/)
 
