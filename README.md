@@ -30,6 +30,8 @@ Examples - [Link](https://mermaid-js.github.io/mermaid/#/examples)
 
 * [Eraser.io](https://www.eraser.io/) (Freemium, Closed Source, Hand drawn, Ease of use - Easy, Visual Appearance - Modern).  
 Examples - [Link](https://www.eraser.io/examples)
+* [flow-chart.io](https://flow-chart.io) (Freemium, Closed Source, AI-generated scene graph, Ease of use - Easy, Visual Appearance - Modern).  
+Examples - [Link](https://flow-chart.io/gallery)
 
 * [Excalidraw](https://excalidraw.com/) (Freemium, Open Source, Hand drawn, Ease of use - Easy, Visual Appearance - Hand-drawn).  
 Examples - [Link]()
@@ -69,6 +71,8 @@ Examples - [Link](https://s.icepanel.io/vmHvBHr4BeMEOa/iyAG)
 
 - [Lucidscale](https://lucidscale.com/) (Paid, Closed Source, Ease of use - Intermediate, Visual Appearance - Modern).  
 Examples - [Link](https://lucidscale.com/tutorial)
+- [flow-chart.io](https://flow-chart.io) (Freemium, Closed Source, AI-generated, Ease of use - Easy, Visual Appearance - Modern). Generates C4 model, cloud architecture, BPMN, ERD as editable scene graphs from plain language.  
+Examples - [Link](https://flow-chart.io/gallery)
 
 Others - [Ilograph](https://www.ilograph.com/), [Omnigraffle](https://sequencediagram.org/), [Cloudcraft](https://www.cloudcraft.co/), [CloudSkew](https://www.cloudskew.com/)
 
