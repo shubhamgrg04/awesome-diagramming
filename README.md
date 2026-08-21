@@ -64,6 +64,8 @@ Examples - [Link](https://diagrams.mingrammer.com/docs/getting-started/examples)
 - [Terrastruct](https://terrastruct.com/) (Paid, Closed Source, Ease of use - Easy, Visual Appearance - Modern)  
 Examples - [Link](https://terrastruct.com/examples/1/)
 
+- [Canopy](https://canopy.8starlabs.com/) (Freemium, Closed Source, Ease of use - Easy, Visual Appearance - Modern). Examples - [Templates](https://canopy.8starlabs.com/templates)
+
 - [IcePanel](https://icepanel.io/) (Paid, Closed Source, Hand drawn, Ease of use - Easy, Visual Appearance - Modern)
 Examples - [Link](https://s.icepanel.io/vmHvBHr4BeMEOa/iyAG)
 
@@ -105,4 +107,3 @@ Examples - [Link](https://markwhen.com/rob/wedding)
 ### **Other good curated collections of diagramming tools**
 - https://github.com/sw-yx/spark-joy/blob/master/README.md#diagramming
 - https://xosh.org/text-to-diagram/
-
