@@ -95,6 +95,9 @@ Examples - [Link](https://azimutt.app/blog/how-to-explore-your-database-schema-w
 - [QuickDBD](https://app.quickdatabasediagrams.com/) (Free, Closed Source, Ease of use - Easy, Visual Appearance - Modern).  
 Examples - [Link](https://www.quickdatabasediagrams.com/quickdbd-as-mysql-design-tool/)
 
+- [Schema3D](https://schema3d.com/) (Free, Open Source, Ease of use - Easy, Visual Appearance - Modern) — browser-only 3D schema visualizer for SQL, T-SQL, and Mermaid ER; shareable URLs; no live database.
+  GitHub: https://github.com/shane-jacobeen/schema3d
+
 Others - [DrawSql](https://drawsql.app/), [ERD Plus](https://erdplus.com/), [Creately](https://creately.com/lp/er-diagram-tool-online/), [SqlDBM](https://sqldbm.com/Home/)
 
 ### **Gantt Chart**
