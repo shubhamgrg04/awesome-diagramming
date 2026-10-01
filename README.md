@@ -70,6 +70,8 @@ Examples - [Link](https://s.icepanel.io/vmHvBHr4BeMEOa/iyAG)
 - [Lucidscale](https://lucidscale.com/) (Paid, Closed Source, Ease of use - Intermediate, Visual Appearance - Modern).  
 Examples - [Link](https://lucidscale.com/tutorial)
 
+- [Cloudeval](https://cloudeval.ai/) (Freemium, Closed Source, Diagram as code, Ease of use - Easy, Visual Appearance - Modern). Generates Azure architecture and dependency diagrams from ARM/Bicep and adds evidence-backed review context.
+
 Others - [Ilograph](https://www.ilograph.com/), [Omnigraffle](https://sequencediagram.org/), [Cloudcraft](https://www.cloudcraft.co/), [CloudSkew](https://www.cloudskew.com/)
 
 
