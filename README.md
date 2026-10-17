@@ -61,6 +61,9 @@ Others - [Miro](https://miro.com/), [Gliffy](https://www.gliffy.com/), [Inkscape
 - [Diagrams](https://diagrams.mingrammer.com/) (Free, Open Source, Ease of use - Easy, Visual Appearance - Modern).  
 Examples - [Link](https://diagrams.mingrammer.com/docs/getting-started/examples)
 
+- [puml-for-markdown](https://github.com/danielyaa5/puml-for-markdown) (Free, Open Source, Diagram as code, Ease of use - Easy, Visual Appearance - Same as PlantUML). Shows PlantUML and C4-PlantUML diagrams in GitHub Markdown, with clickable links between diagrams.  
+Examples - [Link](https://github.com/danielyaa5/puml-for-markdown#examples)
+
 - [Terrastruct](https://terrastruct.com/) (Paid, Closed Source, Ease of use - Easy, Visual Appearance - Modern)  
 Examples - [Link](https://terrastruct.com/examples/1/)
 
