@@ -67,6 +67,8 @@ Examples - [Link](https://terrastruct.com/examples/1/)
 - [IcePanel](https://icepanel.io/) (Paid, Closed Source, Hand drawn, Ease of use - Easy, Visual Appearance - Modern)
 Examples - [Link](https://s.icepanel.io/vmHvBHr4BeMEOa/iyAG)
 
+- [Etione](https://etione.archiet.ai/) (Freemium, Closed Source, AI prompt-to-diagram, ArchiMate 3.2 + C4, Ease of use - Easy, Visual Appearance - Modern)
+
 - [Lucidscale](https://lucidscale.com/) (Paid, Closed Source, Ease of use - Intermediate, Visual Appearance - Modern).  
 Examples - [Link](https://lucidscale.com/tutorial)
 
