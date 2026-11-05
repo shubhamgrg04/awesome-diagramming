@@ -52,6 +52,10 @@ Examples - [Link](https://www.lucidchart.com/pages/tour)
 * [Blockdiag](http://blockdiag.com/) (Free, Open Source, Diagram as code, Ease of use - Easy, Visual Appearance - Outdated).  
 Examples - [Link](http://blockdiag.com/en/blockdiag/examples.html)
 
+
+* [DiagramSmith](https://diagramsmith.com) (Free, Web-based, Ease of use - Easy). A free flowchart / diagram maker for the web, with a Mac app also available.
+Examples - [Link](https://diagramsmith.com)
+
 Others - [Miro](https://miro.com/), [Gliffy](https://www.gliffy.com/), [Inkscape](https://inkscape.org/), [Plectica](https://www.plectica.com/), [Whimsical](https://whimsical.com/), [ZenUML](https://zenuml.com/), [Gleek](https://www.gleek.io/), [Structurizr](https://structurizr.com/dsl), [StarUML](https://staruml.io/), [Gaphor](https://gaphor.org)
 
 
