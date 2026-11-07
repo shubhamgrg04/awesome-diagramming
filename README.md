@@ -22,6 +22,8 @@ Following are the major categories diagrams used by most efficient software engi
 - Visual Appearance - Modern / Minimalistic / Outdated / Hand-drawn
 
 ### **General Purpose (flexible for all kinds of diagrams)**
+* [ASCII Images](https://ascii-images.com/ascii-flowchart-generator) (Free, browser-based, plain-text output). Small flowcharts with 1-8 steps and an optional final yes/no decision; copy as Markdown or download TXT.
+
 * [Kroki](https://kroki.io/) (Free, Open Source, Diagram as code, Ease of use - Easy, Visual Appearance - Flexible).  
 Examples - [Link](https://kroki.io/examples.html)
 
