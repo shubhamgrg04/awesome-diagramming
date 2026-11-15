@@ -49,6 +49,8 @@ Examples - [Link](https://playground.diagram.codes/)
 * [Lucidchart](https://www.lucidchart.com/) (Paid, Closed Source, Hand drawn, Ease of use - Easy, Visual Appearance - Modern).  
 Examples - [Link](https://www.lucidchart.com/pages/tour)
 
+* [AI Flowchart](https://aiflowchart.io/) (Freemium, Closed Source, AI text-to-diagram + editor, Ease of use - Easy, Visual Appearance - Modern). Flowcharts, sequence, ER, UML, architecture and mind maps from plain English or code; exports Mermaid, draw.io, PNG, SVG.  
+Examples - [Link](https://aiflowchart.io/templates)
 * [Blockdiag](http://blockdiag.com/) (Free, Open Source, Diagram as code, Ease of use - Easy, Visual Appearance - Outdated).  
 Examples - [Link](http://blockdiag.com/en/blockdiag/examples.html)
 
