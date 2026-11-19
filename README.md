@@ -52,6 +52,9 @@ Examples - [Link](https://www.lucidchart.com/pages/tour)
 * [Blockdiag](http://blockdiag.com/) (Free, Open Source, Diagram as code, Ease of use - Easy, Visual Appearance - Outdated).  
 Examples - [Link](http://blockdiag.com/en/blockdiag/examples.html)
 
+* [SimpleDiagrams](https://simplediagrams.com/) (Paid, Closed Source, Hand drawn, Ease of use - Easy, Visual Appearance - Hand-drawn, macOS).  
+Examples - [Link](https://simplediagrams.com/examples/)
+
 Others - [Miro](https://miro.com/), [Gliffy](https://www.gliffy.com/), [Inkscape](https://inkscape.org/), [Plectica](https://www.plectica.com/), [Whimsical](https://whimsical.com/), [ZenUML](https://zenuml.com/), [Gleek](https://www.gleek.io/), [Structurizr](https://structurizr.com/dsl), [StarUML](https://staruml.io/), [Gaphor](https://gaphor.org)
 
 
