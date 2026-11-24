@@ -70,6 +70,9 @@ Examples - [Link](https://s.icepanel.io/vmHvBHr4BeMEOa/iyAG)
 - [Lucidscale](https://lucidscale.com/) (Paid, Closed Source, Ease of use - Intermediate, Visual Appearance - Modern).  
 Examples - [Link](https://lucidscale.com/tutorial)
 
+- [ArchScript](https://archscript.dev/) (Freemium, Closed Source, Diagram as Code with architecture rules, Ease of use - Easy, Visual Appearance - Modern).  
+Examples - [Link](https://archscript.dev/templates/)
+
 Others - [Ilograph](https://www.ilograph.com/), [Omnigraffle](https://sequencediagram.org/), [Cloudcraft](https://www.cloudcraft.co/), [CloudSkew](https://www.cloudskew.com/)
 
 
