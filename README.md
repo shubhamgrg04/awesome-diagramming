@@ -40,6 +40,9 @@ Examples - [Link](https://plantuml.com/), [Link](https://real-world-plantuml.com
 * [Draw.io](http://draw.io/) (Free, Open Source (But Closed To Contribution), Hand drawn, Ease of use - Moderate, Visual Appearance - Modern).  
 Examples - [Link](https://www.diagrams.net/example-diagrams)
 
+* [Slatebox](https://slatebox.com/) (Free, [Open Source](https://github.com/Slatebox/slatebox), Mind maps, flowcharts and whiteboards with live collaboration and Mermaid import/export, Ease of use - Easy, Visual Appearance - Modern).  
+Examples - [Link](https://slatebox.com/gallery/)
+
 * [Nomnoml](https://www.nomnoml.com/) (Free, Open Source, Diagram as code. Ease of use - Easy, Visual Appearance - Minimalistic).  
 Examples - [Link](https://www.nomnoml.com/)
 
